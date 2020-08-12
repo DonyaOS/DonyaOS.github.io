@@ -12,4 +12,4 @@ Donya OS is a Operating System. A kind of Linux distribution built using package
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [orginization](https://github.com/DonyaOS) or [Max Base](https://github.com/basemax) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [organization](https://github.com/DonyaOS) or [Max Base](https://github.com/basemax) and we’ll help you sort it out.
